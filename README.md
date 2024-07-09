@@ -1,4 +1,4 @@
-![Luxury Designs](https://github.com/sourceduty/Luxury_Design/assets/123030236/a5bc2241-dc28-43a2-ad39-4ec6127e8d95)
+![Modern Clear Plastic Record Player Design](https://github.com/sourceduty/Luxury_Design/assets/123030236/d973c097-2f66-4d94-ad07-443425060369)
 
 >  Luxurious and elegant designs.
 
@@ -13,6 +13,10 @@ In the realm of luxury clothing, fashion houses like Chanel, Gucci, and Dior set
 Yacht design in the luxury segment focuses on creating vessels that provide the ultimate in comfort and performance. Luxury yachts are often custom-built, with designs tailored to the specific preferences of their owners. These yachts feature lavish interiors, with spacious cabins, gourmet kitchens, and opulent lounges. High-end materials such as marble, exotic woods, and premium fabrics are commonly used. In addition to their aesthetic appeal, luxury yachts are equipped with advanced technology and amenities, including entertainment systems, pools, and even helipads, ensuring a pleasurable experience on the open seas.
 
 Luxury boat design, while similar to yacht design, can encompass a broader range of watercraft, including smaller boats designed for both leisure and sport. These boats are crafted with the same attention to detail and quality as luxury yachts but may be designed for different purposes such as day cruising, fishing, or watersports. High-end materials and cutting-edge technology are integral to luxury boat design, ensuring durability, performance, and aesthetic appeal. Brands like Riva, Chris-Craft, and Sunseeker are renowned for their luxury boats, which combine elegance, speed, and functionality to create an exceptional boating experience.
+
+#
+
+![Luxury Designs](https://github.com/sourceduty/Luxury_Design/assets/123030236/a5bc2241-dc28-43a2-ad39-4ec6127e8d95)
 
 #
 ### Related Links
