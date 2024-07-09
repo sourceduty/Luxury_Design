@@ -30,7 +30,7 @@ Luxury boat design, while similar to yacht design, can encompass a broader range
 [History Product](https://github.com/sourceduty/History_Product)
 <br>
 [Concept Design](https://github.com/sourceduty/Concept_Design)
-<br<
+<br>
 [Boat Design](https://github.com/sourceduty/Boats)
 
 #
