@@ -33,5 +33,7 @@ Luxury boat design, while similar to yacht design, can encompass a broader range
 
 #
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
+#
+![Muddy Rolls-Royce](https://github.com/sourceduty/Luxury_Design/assets/123030236/f77ca06b-ce75-4997-be35-b64b48c27eb1)
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
