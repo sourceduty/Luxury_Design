@@ -128,6 +128,8 @@ Overall, the Luxury Sloped Triangle Chessboard Concept is not just a functional 
 [Concept Design](https://github.com/sourceduty/Concept_Design)
 <br>
 [Boat Design](https://github.com/sourceduty/Boats)
+<br>
+[AI Design Contests](https://github.com/sourceduty/AI_Design_Contests)
 
 #
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
