@@ -49,6 +49,10 @@ In terms of functionality, this wristwatch is equipped with all the advanced fea
 </details>
 
 #
+
+![Luxury Designs](https://github.com/sourceduty/Luxury_Design/assets/123030236/a5bc2241-dc28-43a2-ad39-4ec6127e8d95)
+
+#
 ### Related Links
 
 [Product Design](https://github.com/sourceduty/Product_Design)
@@ -65,7 +69,5 @@ In terms of functionality, this wristwatch is equipped with all the advanced fea
 
 #
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
-#
-![Muddy Rolls-Royce](https://github.com/sourceduty/Luxury_Design/assets/123030236/f77ca06b-ce75-4997-be35-b64b48c27eb1)
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
