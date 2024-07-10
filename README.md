@@ -49,10 +49,6 @@ In terms of functionality, this wristwatch is equipped with all the advanced fea
 </details>
 
 #
-
-![Luxury Designs](https://github.com/sourceduty/Luxury_Design/assets/123030236/a5bc2241-dc28-43a2-ad39-4ec6127e8d95)
-
-#
 ### Related Links
 
 [Product Design](https://github.com/sourceduty/Product_Design)
