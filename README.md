@@ -50,7 +50,7 @@ In terms of functionality, this wristwatch is equipped with all the advanced fea
 <details><summary>Luxury Futuristic Driving Gloves</summary>
 <br>
 
-![Luxury Futuristic Driving Gloves](https://github.com/sourceduty/Luxury_Design/assets/123030236/4804f2d0-24dd-4d69-a1ab-4d816b3a5799)
+![Luxury Futuristic Driving Gloves](https://github.com/sourceduty/Luxury_Design/assets/123030236/6cfccdbf-1eae-4360-8569-838710291918)
 
 These conceptual luxury futuristic driving gloves embody the pinnacle of advanced technology and refined design. These gloves seamlessly integrate sophisticated features with sleek aesthetics, offering both functionality and a high-end appeal. The gloves are primarily constructed from high-quality materials, including supple black leather and metallic accents that enhance their futuristic appearance. Prominent features such as digital displays and touch-sensitive controls are integrated into the glove's design, suggesting a blend of luxury with cutting-edge technology. These elements make the gloves not only a statement of style but also a practical accessory for modern driving experiences.
 
