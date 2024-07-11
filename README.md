@@ -141,6 +141,12 @@ In terms of branding and marketability, the Triangle Polish bottle offers a sign
 ![Luxury Designs](https://github.com/sourceduty/Luxury_Design/assets/123030236/a5bc2241-dc28-43a2-ad39-4ec6127e8d95)
 
 #
+
+> Alex: *"I've wanted to work on luxury product design for a very long time."*
+
+"*I don't plan on manufacturing and selling these luxury product designs.*"
+
+#
 ### Related Links
 
 [Product Design](https://github.com/sourceduty/Product_Design)
