@@ -144,7 +144,7 @@ In terms of branding and marketability, the Triangle Polish bottle offers a sign
 
 > Alex: *"I've wanted to work on luxury product design for a very long time."*
 
-"*I don't plan on manufacturing and selling these luxury product designs.*"
+> "*I don't plan on manufacturing and selling these luxury product designs.*"
 
 #
 ### Related Links
