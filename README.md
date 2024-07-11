@@ -109,6 +109,19 @@ Overall, the Luxury Sloped Triangle Chessboard Concept is not just a functional 
 
 <br>
 </details>
+<details><summary>Greed Cologne Brand Design</summary>
+<br>
+
+![GREED Cologne Bottle](https://github.com/sourceduty/Luxury_Design/assets/123030236/bd929380-03b3-4b04-ad31-b175225e0f04)
+
+Greed Cologne, encapsulated in a striking bottle designed to resemble a cash bag, immediately conveys a message of opulence and desire. The bottle's unique design, with its clear glass body and plush metallic finish, mimics the look of a money sack, symbolizing wealth and luxury. The golden dollar sign embossed on the front, paired with the elegant rope detail around the neck, reinforces the theme of affluence. This innovative packaging is not just a container for the fragrance but a statement piece that stands out on any vanity or dresser, appealing to those who embrace extravagance.
+
+The fragrance itself is a sophisticated blend that captures the essence of success and ambition. Greed Cologne opens with top notes of fresh citrus and spicy cardamom, creating an invigorating and energizing introduction. As the scent develops, the heart reveals a rich combination of aromatic herbs and warm amber, providing a sense of depth and complexity. The base notes of luxurious oud and creamy vanilla linger on the skin, offering a long-lasting and memorable finish. This complex olfactory journey is designed to evoke confidence and power, making it the perfect accessory for anyone looking to make a bold impression.
+
+More than just a fragrance, Greed Cologne is an experience, embodying the allure of prosperity and the pursuit of one's desires. It speaks to the ambitious individual who is unafraid to chase their dreams and showcase their achievements. The cash bag bottle design serves as a constant reminder of the fragrance's inspiration—ambition, wealth, and the finer things in life. Greed Cologne is not just about smelling good; it's about feeling empowered and embracing the luxury that comes with success. This cologne is a perfect gift for those who appreciate the finer things and are driven by their aspirations.
+
+<br>
+</details>
 
 #
 
