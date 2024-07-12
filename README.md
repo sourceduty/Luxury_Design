@@ -161,6 +161,8 @@ Overall, this luxury glass French coffee press blender is a perfect blend of for
 
 > "*I don't plan on manufacturing and selling these luxury product designs.*"
 
+> "*I work with every detail.*"
+
 #
 ### Related Links
 
