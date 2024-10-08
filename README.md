@@ -1,4 +1,4 @@
-![Modern Clear Plastic Record Player Design](https://github.com/sourceduty/Luxury_Design/assets/123030236/d973c097-2f66-4d94-ad07-443425060369)
+![Luxury](https://github.com/user-attachments/assets/77ce33e8-7b60-4f4a-b723-ea944055b89c)
 
 >  Luxurious and elegant designs.
 
@@ -154,6 +154,10 @@ Overall, this luxury glass French coffee press blender is a perfect blend of for
 #
 
 ![Luxury Designs](https://github.com/sourceduty/Luxury_Design/assets/123030236/a5bc2241-dc28-43a2-ad39-4ec6127e8d95)
+
+#
+
+![Modern Clear Plastic Record Player Design](https://github.com/sourceduty/Luxury_Design/assets/123030236/d973c097-2f66-4d94-ad07-443425060369)
 
 #
 
